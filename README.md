@@ -9,4 +9,4 @@ Contatos:<div><a href="https://www.linkedin.com/in/élika-castro-9a2b10189/" tar
 
 
 
-![retsuko-nice](https://user-images.githubusercontent.com/112868623/199637348-2e020810-ad94-40b2-89ac-5040cdcf4a23.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/112868623/210616668-058a876f-b423-4dd4-87a0-f56437cd86af.gif)
