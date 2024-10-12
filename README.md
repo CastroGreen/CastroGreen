@@ -1,6 +1,6 @@
 ## Olá me chamo Élika!! 
-Sou estudante de Analise e desenvolvimento de sistemas ;
-paralelo ao ensino superior venho me dedicando a desenvolver minhas habilidades nas seguintes ferramentas de tecnologia:   
+Desenvolvedora Front-end e Analista de Testes Júnior, focada em criar interfaces intuitivas e garantir a qualidade de software por meio de testes eficientes.
+Tenho experiência com JavaScript, TypeScript, React, Cypress, e Postman.  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 
