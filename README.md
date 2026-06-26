@@ -1,6 +1,5 @@
 ## Olá me chamo Élika!! 
- QA Jr com experiência em testes funcionais, regressão e automação com Robot Framework. 
-Tenho conhecimento em desenvolvimento Front-End, o que  me auxilia na análise de requisitos e validação de interfaces. 
+Desenvolvedora em transição da área de QA, com experiência em testes de software, análise de requisitos e desenvolvimento Front-end. Busco evoluir na criação de aplicações de qualidade, unindo uma visão voltada para a experiência do usuário, boas práticas de desenvolvimento e qualidade de software.
 Neste espaço estão reunidos projetos, estudos e exemplos práticos relacionados a testes de software , com o objetivo de demonstrar conhecimentos, práticas e experiências na área de tecnologia.
 
 
